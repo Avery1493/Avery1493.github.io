@@ -20,7 +20,7 @@ description: Interesting Data Science Projects
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About: "aboutpage"
   My Links:
     - Medium: "https://medium.com/@avery.quinn1493"
     - Juggling Finance: "http://www.jugglingfinance.com/"
