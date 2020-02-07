@@ -5,6 +5,7 @@ subtitle: Call me the Investigator: Enneagram 5
 ---
 
 ---
+layout: page
 title: ABOUT ME
 subtitle: Call me the Investigator: Enneagram Type 5
 ---
