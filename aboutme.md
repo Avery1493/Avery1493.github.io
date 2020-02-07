@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Call me the Investigator: Enneagram Type 5
+subtitle: Call me the Investigator: Enneagram 5
 ---
 
 My name is Avery Quinn. I am a data scientist and a financial counselor.
