@@ -37,7 +37,10 @@ Individuals in their late 20s and 30s might be also going back to school or purs
 
 When you look at outstanding debt from borrowers 24 years old and younger by state, a new pattern can be seen. A straight line can almost be drawn down the middle of the country. Borrowers 24 and Younger from the western states seem to owe less on average than individuals on the opposite side of the country. This distinction may be significant because when comparing the average debt of greater age ranges, this pattern diminishes.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~Avery1493/6.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~Avery1493/6/?share_key=0VjXRZklHrgo5KJiyYpdMA" target="_blank" title="Student Loan Debt 24 and Younger" style="display: block; text-align: center;"><img src="https://plot.ly/~Avery1493/6.png?share_key=0VjXRZklHrgo5KJiyYpdMA" alt="Student Loan Debt 24 and Younger" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="Avery1493:6" sharekey-plotly="0VjXRZklHrgo5KJiyYpdMA" src="https://plot.ly/embed.js" async></script>
+</div>
 
 Clearly, as these statistics show, student loan debt is still a massive problem in the United States both on the acquisition and repayment side. Many people still owe on loans well into their early 60s. Borrowing also remains a fact of life for young college students, but there may be a trend developing depending where you live in the country.
 
