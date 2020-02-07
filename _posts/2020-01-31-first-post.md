@@ -5,11 +5,13 @@ image: /img/hello_world.jpeg
 ---
 According to statistics, 80% of Americans are in debt. From auto loans to credit cards, most people have or are experiencing the crushing feeling of living under a burden of debt. Most of that debt is found in home mortgages, but student loans trails behind as the second highest category of debt. U.S. student loan debt, as of the end of 2019, has reached $1.5 trillion. This amount is owed by over 45 million borrowers.
 
-**Student Loan Debt Per Borrower In The U.S. States**
+##Student Loan Debt Per Borrower In The U.S. States##
 
 The average outstanding student loan debt per borrower in America is $34.6 thousand. Among all 50 states, this amount only varies slightly. Outstanding debt owed per borrower in most states fall between the range of $30–40k. The states with the lowest averages are North Dakota: $28.5k; Wyoming: $28.9k; Iowa: $29.3k; South Dakota: $30.5k; and Nebraska: $30.7k. Maryland, Georgia, Virginia, Florida, and South Carolina have the highest averages in the nation with each borrower owing an average of 41.3k, $40.2k, $37.8k, $37.1k, and $37k respectively.
 
-**Student Loan By Age Group**
+/img/hello_world.jpeg
+
+##Student Loan By Age Group##
 
 Looking further into the American student loan crisis, a significant difference between borrowers is more noticeable after dissecting the data by age. Here is the breakdown of the average amount owed by age.
 
@@ -27,7 +29,7 @@ Many things can account for this stark difference. Borrowers in the age ranges 2
 
 Individuals in their late 20s and 30s might be also going back to school or pursuing advanced degrees that may lead them to acquire more debt. In addition, depending on the type of loan and if it’s in deferment or not, interests will start accruing. Many people, especially if they have other debts or obligations, may struggle to make their monthly payments. Loan providers estimate that it should take 10 years to pay off loans, but it takes the average borrower 21 years to pay off his or her loan. Lastly, taking out parent plus loans and optimism about forgiveness programs could also account for the large concentration of debt owed by borrowers in older age ranges.
 
-**Average Debt of Borrower 24 and Younger by State**
+##Average Debt of Borrower 24 and Younger by State##
 
 When you look at outstanding debt from borrowers 24 years old and younger by state, a new pattern can be seen. A straight line can almost be drawn down the middle of the country. Borrowers 24 and Younger from the western states seem to owe less on average than individuals on the opposite side of the country. This distinction may be significant because when comparing the average debt of greater age ranges, this pattern diminishes.
 
