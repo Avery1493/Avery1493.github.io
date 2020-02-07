@@ -1,16 +1,14 @@
 ---
 layout: post
 title: 2019 US Student Loan Debt Burden on Borrowers by State and Age Range
-image: /img/hello_world.jpeg
+image: /newplot.png
 ---
 According to statistics, 80% of Americans are in debt. From auto loans to credit cards, most people have or are experiencing the crushing feeling of living under a burden of debt. Most of that debt is found in home mortgages, but student loans trails behind as the second highest category of debt. U.S. student loan debt, as of the end of 2019, has reached $1.5 trillion. This amount is owed by over 45 million borrowers.
 
 **Student Loan Debt Per Borrower In The U.S. States**
 
 The average outstanding student loan debt per borrower in America is $34.6 thousand. Among all 50 states, this amount only varies slightly. Outstanding debt owed per borrower in most states fall between the range of $30–40k. The states with the lowest averages are North Dakota: $28.5k; Wyoming: $28.9k; Iowa: $29.3k; South Dakota: $30.5k; and Nebraska: $30.7k. Maryland, Georgia, Virginia, Florida, and South Carolina have the highest averages in the nation with each borrower owing an average of 41.3k, $40.2k, $37.8k, $37.1k, and $37k respectively.
-
 ![](https://github.com/Avery1493/Avery1493.github.io/blob/master/img/scatter%20(1).png)
-
 **Student Loan By Age Group**
 
 Looking further into the American student loan crisis, a significant difference between borrowers is more noticeable after dissecting the data by age. Here is the breakdown of the average amount owed by age.
@@ -37,7 +35,7 @@ Individuals in their late 20s and 30s might be also going back to school or purs
 
 When you look at outstanding debt from borrowers 24 years old and younger by state, a new pattern can be seen. A straight line can almost be drawn down the middle of the country. Borrowers 24 and Younger from the western states seem to owe less on average than individuals on the opposite side of the country. This distinction may be significant because when comparing the average debt of greater age ranges, this pattern diminishes.
 
-!(https://plot.ly/~Avery1493/6/)
+![Plotly Avverage Debt 24 and Younger](https://plot.ly/~Avery1493/6/)
 
 Clearly, as these statistics show, student loan debt is still a massive problem in the United States both on the acquisition and repayment side. Many people still owe on loans well into their early 60s. Borrowing also remains a fact of life for young college students, but there may be a trend developing depending where you live in the country.
 
