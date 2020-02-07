@@ -38,7 +38,7 @@ avatar: "img/34501189_10216891935119928_7014186111291359232_n.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#87d6d2"
+navbar-col: "#ccf0ee"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -69,13 +69,13 @@ author:
 social-network-links:
   rss: true
   email: "avery.quinn1493@gmail.com"
-  facebook: deanattali
-  github: https://github.com/Avery1493
+ # facebook: deanattali
+  github: Avery1493
   twitter: AveryQuinn1493
 #  reddit: yourname
-  linkedin: https://twitter.com/AveryQuinn1493
+ # linkedin: https://twitter.com/AveryQuinn1493
 #  xing: yourname
-  stackoverflow: "3943160/daattali"
+  stackoverflow: "12706398/avery-quinn"
 #  snapchat: deanat78
 #  instagram: deanat78
   youtube: user/jugglingfinance
