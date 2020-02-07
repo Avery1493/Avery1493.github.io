@@ -13,13 +13,13 @@ The average outstanding student loan debt per borrower in America is $34.6 thous
 
 Looking further into the American student loan crisis, a significant difference between borrowers is more noticeable after dissecting the data by age. Here is the breakdown of the average amount owed by age.
 
-24 and Younger: $14,766
+24 and Younger: $14,766  
 
-25 to 34: $34,348
+25 to 34: $34,348  
 
-35 to 49: $45,126
+35 to 49: $45,126  
 
-50 to 61: $42,820
+50 to 61: $42,820  
 
 62 and Older: $41,471
 
