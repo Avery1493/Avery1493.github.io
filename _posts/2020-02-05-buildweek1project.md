@@ -9,7 +9,7 @@ According to statistics, 80% of Americans are in debt. From auto loans to credit
 
 The average outstanding student loan debt per borrower in America is $34.6 thousand. Among all 50 states, this amount only varies slightly. Outstanding debt owed per borrower in most states fall between the range of $30–40k. The states with the lowest averages are North Dakota: $28.5k; Wyoming: $28.9k; Iowa: $29.3k; South Dakota: $30.5k; and Nebraska: $30.7k. Maryland, Georgia, Virginia, Florida, and South Carolina have the highest averages in the nation with each borrower owing an average of 41.3k, $40.2k, $37.8k, $37.1k, and $37k respectively.
 
- <img src="/img/" />
+ <img src="/img/scatter.png" />
 
 **Student Loan By Age Group**
 
