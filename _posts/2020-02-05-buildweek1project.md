@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 👩🏻‍🎓 2019 US Student Loan Debt Burden on Borrowers by State and Age Range
-image: /img/newplot.png
+image: /img/USMAPDebt24.PNG
 ---
 According to statistics, 80% of Americans are in debt. From auto loans to credit cards, most people have or are experiencing the crushing feeling of living under a burden of debt. Most of that debt is found in home mortgages, but student loans trails behind as the second highest category of debt. U.S. student loan debt, as of the end of 2019, has reached $1.5 trillion. This amount is owed by over 45 million borrowers.
 
