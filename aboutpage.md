@@ -3,7 +3,6 @@
 <h6>Call me the Investigator: Enneagram Type 5</h6>
 
 My name is Avery Quinn. I am a data scientist and a financial counselor.
-
 What else do you need?
 
 ### My history
