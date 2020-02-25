@@ -1,10 +1,6 @@
----
-title: ABOUT ME
-subtitle: Call me the Investigator: Enneagram Type 5
-description: Interesting Data Science Projects 
----
 
-
+<h1>ABOUT ME</h1>
+<h6>Call me the Investigator: Enneagram Type 5</h6>
 
 My name is Avery Quinn. I am a data scientist and a financial counselor.
 
