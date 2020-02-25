@@ -73,12 +73,12 @@ social-network-links:
   github: Avery1493
   twitter: AveryQuinn1493
 #  reddit: yourname
-# linkedin: https://twitter.com/AveryQuinn1493
+  linkedin: https://www.linkedin.com/in/avery-quinn-a178431a2/
 #  xing: yourname
   stackoverflow: "12706398/avery-quinn"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: channel/UCaCBaNXcK6pLhxqD8EkbE0w?view_as=subscriber
+#  youtube: channel/UCaCBaNXcK6pLhxqD8EkbE0w?view_as=subscriber
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -88,7 +88,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
 
 # How to display the link to the website in the footer
