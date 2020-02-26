@@ -16,10 +16,10 @@ Around this same time, my best friend began attending Lambda, an online coding s
 After applying for Lambda, I worked hard after getting off from work and on the weekends to complete the precourse work for the program. Once I was accepted, I got up the courage to put in my two weeks notice at my job. I do miss it a bit, but I’m excited for this new journey as well. 
 <div class="row">
   <div class="column">
-    <img src="/img/21st.jpg "height="600" width="400"/>
+    <img src="/img/21st.jpg "height="300" width="200"/>
   </div>
 <div class="column">
-    <img src="/img/21st2.jpg" height="400" width="600" />
+    <img src="/img/21st2.jpg" height="200" width="300" />
   </div>
 </div>
 
