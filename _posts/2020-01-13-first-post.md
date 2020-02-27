@@ -15,11 +15,12 @@ Around this same time, my best friend began attending Lambda, an online coding s
 
 After applying for Lambda, I worked hard after getting off from work and on the weekends to complete the precourse work for the program. Once I was accepted, I got up the courage to put in my two weeks notice at my job. I do miss it a bit, but I’m excited for this new journey as well.
   
-<h4>My Old Training Group</h4>
+<center><h4>My Old Training Group</h4><center/>
 
 <div align="center">
   <img src="/img/21st2.jpg" height="400" width="600"/><br />
 </div>
+
 
 My goal for the future is to work as a data scientist. I want to progress and make a better life for my family. I also want to encourage other girls and minorities to get involved in tech. Lastly, I want to use my skills to develop math and personal finance apps and games for children and young adults.
 
