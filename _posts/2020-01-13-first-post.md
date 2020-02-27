@@ -20,6 +20,7 @@ visible: 1
   <img src="/img/21st2.jpg" height="400" width="600"/><br />
 </div>
 
+
 <p>My goal for the future is to work as a data scientist. I want to progress and make a better life for my family. I also want to encourage other girls and minorities to get involved in tech. Lastly, I want to use my skills to develop math and personal finance apps and games for children and young adults.<p/>
 
 
