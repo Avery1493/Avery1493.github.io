@@ -15,7 +15,7 @@ Around this same time, my best friend began attending Lambda, an online coding s
 
 After applying for Lambda, I worked hard after getting off from work and on the weekends to complete the precourse work for the program. Once I was accepted, I got up the courage to put in my two weeks notice at my job. I do miss it a bit, but I’m excited for this new journey as well.
   
-<center><h4>My Old Training Group</h4><center/>
+<h4 align="center">My Old Training Group</h4>
 
 <div align="center">
   <img src="/img/21st2.jpg" height="400" width="600"/><br />
