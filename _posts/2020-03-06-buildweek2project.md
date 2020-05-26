@@ -5,7 +5,7 @@ image: /img/domino.jpg
 ---
 While working as a delivery driver for many years, I kept record of how much I made in tips. 
 I decided to use that information to create a model that predicts daily tips. 🤑  
-Check out my deployed application >>>[Here](https://dominos-tip-prediction.herokuapp.com/)<<<
+Check out my deployed application >[Here](https://dominos-tip-prediction.herokuapp.com/)<
 
 **Model Features**  
 When I worked, I kept track of the date, day of the week, how many miles I drove, reimbursement I received for mileage, 
@@ -29,3 +29,5 @@ I create was extremely useful in predicting tips. The precipitation was not as i
 
 <img src="/img/importances.PNG" height="300" width="300" />  
 <img src="/img/demandprcp.png" height="600" width="400" />  
+
+Check out my deployed application >[Here](https://dominos-tip-prediction.herokuapp.com/)<
