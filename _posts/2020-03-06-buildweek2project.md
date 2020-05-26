@@ -30,4 +30,4 @@ I create was extremely useful in predicting tips. The precipitation was not as i
 <img src="/img/importances.PNG" height="300" width="300" />  
 <img src="/img/demandprcp.png" height="600" width="400" />  
 
-Check out my deployed application >[Here](https://dominos-tip-prediction.herokuapp.com/)<
+For more details, check out my application >[Here](https://dominos-tip-prediction.herokuapp.com/)<
