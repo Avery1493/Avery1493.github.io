@@ -13,9 +13,10 @@ my daily tips, and the total hours I spent on the road. Most of this I categoriz
 However, I was able to extract weather data to get the daily precipitation. I also engineered a new feature to capture 
 the business demand by using the average miles per hour I drve to determine if a day was normal, slow, or busy. That left 
 me with seven features I could use in my model.  
-``` target = 'Tips'  
-features = ['Day_of_the_week', 'Year', 'Month', 'Day', 'Hours', 'Prep', 'Demand']```
-
+```  
+target = 'Tips'  
+features = ['Day_of_the_week', 'Year', 'Month', 'Day', 'Hours', 'Prep', 'Demand']
+```
 **Models**  
 As a baseline, I wanted to see how accurate my predictions would be if I selected the mean tip value of $66.34 for every 
 prediction. With that model, my mean absolute error was $25.85. That gave me a good starting point and a benchmack to compare 
@@ -26,5 +27,5 @@ regression seemed to perform better with a MAE of $13.47.
 I used the eli5 library to compute the permutation importances for my model features. I was pleased the the "Demand" feature 
 I create was very useful in predicting tips. The precipitation was not as important as I though in determining the value of tips.
 
-<img src="/img/importances.PNG" height="400" width="1600" />  
-<img src="/img/demandprcp.png" height="400" width="1600" />  
+<img src="/img/importances.PNG" height="600" width="300" />  
+<img src="/img/demandprcp.png" height="600" width="350" />  
