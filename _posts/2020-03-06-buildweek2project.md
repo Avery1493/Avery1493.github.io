@@ -27,5 +27,5 @@ regression seemed to perform better with a MAE of $13.47.
 I used the eli5 library to compute the permutation importances for my model features. I was pleased the the "Demand" feature 
 I create was very useful in predicting tips. The precipitation was not as important as I though in determining the value of tips.
 
-<img src="/img/importances.PNG" height="400" width="300" />  
+<img src="/img/importances.PNG" height="350" width="250" />  
 <img src="/img/demandprcp.png" height="600" width="400" />  
