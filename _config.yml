@@ -22,9 +22,10 @@ description: Interesting Data Science Projects
 navbar-links:
   About: "aboutpage"
   My Links:
+    - Resume: "https://drive.google.com/file/d/1VQLnCY5Jg5XO17AlJT3BQLuh3dEYSP8r/view?usp=sharing"
     - Medium: "https://medium.com/@avery.quinn1493"
     - GitHub: "https://github.com/Avery1493"
-    - Resume: "https://drive.google.com/file/d/1VQLnCY5Jg5XO17AlJT3BQLuh3dEYSP8r/view?usp=sharing"
+    
   GitHub: "https://github.com/Avery1493"
 
 # Image to show in the navigation bar - image must be a square (width = height)
