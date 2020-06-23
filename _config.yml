@@ -21,12 +21,8 @@ description: Interesting Data Science Projects
 # List of links in the navigation bar
 navbar-links:
   About: "aboutpage"
-  My Links:
-    - Resume: "https://drive.google.com/file/d/1VQLnCY5Jg5XO17AlJT3BQLuh3dEYSP8r/view?usp=sharing"
-    - Medium: "https://medium.com/@avery.quinn1493"
-    - GitHub: "https://github.com/Avery1493"
-    
-  GitHub: "https://github.com/Avery1493"
+  Resume: "https://drive.google.com/file/d/1VQLnCY5Jg5XO17AlJT3BQLuh3dEYSP8r/view?usp=sharing"
+  Medium: "https://medium.com/@avery.quinn1493"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,7 +38,7 @@ avatar: "img/avatar.png"
 
 navbar-col: "#5568f6" 
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#FFFFFF"
+navbar-children-col: "#5568f6"
 page-col: "#FFFFFF"
 link-col: "#5568f6"
 hover-col: "#5568f6"
