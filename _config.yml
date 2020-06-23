@@ -4,7 +4,7 @@
 title: Portfolio
 
 # Short description of your site
-description: Interesting Data Science Projects 
+description: Quinn 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,12 +21,8 @@ description: Interesting Data Science Projects
 # List of links in the navigation bar
 navbar-links:
   About: "aboutpage"
-  My Links:
-    - Resume: "https://drive.google.com/file/d/1VQLnCY5Jg5XO17AlJT3BQLuh3dEYSP8r/view?usp=sharing"
-    - Medium: "https://medium.com/@avery.quinn1493"
-    - GitHub: "https://github.com/Avery1493"
-    
-  GitHub: "https://github.com/Avery1493"
+  Resume: "https://drive.google.com/file/d/1VQLnCY5Jg5XO17AlJT3BQLuh3dEYSP8r/view?usp=sharing"
+  Medium: "https://medium.com/@avery.quinn1493"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -40,15 +36,15 @@ avatar: "img/avatar.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#000000" 
-navbar-text-col: "#374ddb"
-navbar-children-col: "#FFFFFF"
-page-col: "#FFFFFF"
-link-col: "#ffffff"
-hover-col: "#5568f6"
-footer-col: "#374ddb"
-footer-text-col: "#000000"
-footer-link-col: "#403f3f"
+navbar-col: "#5568f6" # light blue
+navbar-text-col: "#FFFFFF" # white
+navbar-children-col: "#FFFFFF" # white
+page-col: "#FFFFFF" # white
+link-col: "#5568f6" # light blue
+hover-col: "#5568f6" # light blue
+footer-col: "#374ddb" # dark blue
+footer-text-col: "#000000" # black
+footer-link-col: "#403f3f" dark grey
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
