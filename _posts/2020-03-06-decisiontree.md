@@ -11,6 +11,8 @@ predict a continuious quanitiy or numeric output, such as $35.98 or 11.41 inces.
 important to note that the metrics used to contruct (choosing how the variavles at each step split) 
 classification and regression trees are different. 
 
+<center><img src="`r https://miro.medium.com/max/1414/1*nMDP48LmXR0J9R434tSH0A.png`"></center>
+
 Examples used for classification trees include Gini impurity, Information gain (Entropy), and Chi-square. 
 The sklearn.tree.DecisionTreeClassifier uses gini or entropy as the criteria to measure the quality of a split. 
 For regression trees, Variance reduction is used as the metric. The sklearn.tree.DecisionTreeRegressor use mean 
@@ -36,3 +38,5 @@ smallest variance. Therefore, the split that minimizes the standard deviation of
 lowest std is still higher than the previous node, the node does not split. This means we are at the terminal 
 node of the tree. If we want to make a prediction, the predict method starts at the root node and work is way
 down to the terminal node and return the predicted y value.
+
+<center><img src="https://miro.medium.com/max/1414/1*nMDP48LmXR0J9R434tSH0A.png"></center>
