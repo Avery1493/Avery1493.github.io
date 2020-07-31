@@ -4,18 +4,19 @@ title: Implementing a Regression Decision Tree
 image: /img/path.jpg
 ---
 A decision tree is a predictive modeling approach that separates data into classes using a top-down appraoch, 
-with broader classes at the top and more specific classes as you travel down the tree.  
+with broader classes at the top and more specific classes as you travel down the tree.
+
 There are two types of problems you can use a decision tree to solve: classification and regression problems. 
 Classification trees predict a discrete or categorical class label, such as dog or cat. Regression trees 
 predict a continuious quanitiy or numeric output, such as $35.98 or 11.41 inches. This distinction is also 
-important to note because the metrics used to contruct (choose how the variables at each step split) 
+important to note because the metrics used to construct (choose how the variables at each step split) 
 classification and regression trees are different. 
 
 <center><img src="https://miro.medium.com/max/1414/1*nMDP48LmXR0J9R434tSH0A.png" width="600" height="450"></center>
 
 Examples used for classification trees include Gini impurity, Information gain (Entropy), and Chi-square. 
-The sklearn.tree.DecisionTreeClassifier uses gini or entropy as the criteria to measure the quality of a split. 
-For regression trees, Variance reduction is used as the metric. The sklearn.tree.DecisionTreeRegressor use mean 
+The [sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) uses gini or entropy as the criteria to measure the quality of a split. 
+For regression trees, Variance reduction is used as the metric. The [sklearn.tree.DecisionTreeRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor) use mean 
 squared error (MSE), friedman mse, and mean absoulte error. For this project, I focus on implementing a regression 
 decision tree.
 
@@ -85,6 +86,8 @@ def predict_row(self, xi):
     node = self.left if xi[self.feature_index] <= self.split else self.right
     return node.predict_row(xi)
 ``` 
+
+For more information behind the math of regression trees see this [video](https://www.youtube.com/watch?v=g9c66TUylZ4) 
 
 **SKLEARN Comparison**  
 To test this model, lets first import some data. The Boston Housing dataset has 13 features, but 
