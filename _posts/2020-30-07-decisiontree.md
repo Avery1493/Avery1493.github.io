@@ -11,7 +11,7 @@ predict a continuious quanitiy or numeric output, such as $35.98 or 11.41 inches
 important to note because the metrics used to contruct (choose how the variables at each step split) 
 classification and regression trees are different. 
 
-<center><img src="https://miro.medium.com/max/1414/1*nMDP48LmXR0J9R434tSH0A.png" width="200" height="200"></center>
+<center><img src="https://miro.medium.com/max/1414/1*nMDP48LmXR0J9R434tSH0A.png" width="600" height="450"></center>
 
 Examples used for classification trees include Gini impurity, Information gain (Entropy), and Chi-square. 
 The sklearn.tree.DecisionTreeClassifier uses gini or entropy as the criteria to measure the quality of a split. 
@@ -113,7 +113,24 @@ tree.fit(features,target)
 # Predict
 tree.predict([[6,65], [2,10], [3,25], [7,100]])
 ```  
-```
->>>array([22.9, 16.1, 16.1, 36. ])
-```
+```>>> array([22.9, 16.1, 16.1, 36. ])```
 
+Now for my regression class...
+```
+from node import Node 
+from DTRegressor import DTRegressor
+# Fit Tree
+m_tree = DecisionTreeRegressor()
+m_tree.fit(features,target)
+
+# Predict
+m_tree.predict([[6,65], [2,10], [3,25], [7,100]])
+```  
+```>>> array([22.9, 16.1, 16.1, 36. ])```
+
+The result of my decision tree seems to work really well. I was worried my results would vary greatly becaused I used 
+standard deviation as my metric. Many difffernt sources for regression trees use differnt metrics for their criteria for
+splitting the tree. Sklearn uses mean squared error, while other common metrics I came across were standard deviation,
+reduction in variance, root mean square error, and sum of the squared residuals. I first desired to follow along with the
+sklearn model to see how accurate my tree was, but I could not figure out how they were calculating the mse for each split.
+Therefore, I went with another option of splitting my tree based on standard deviation.
